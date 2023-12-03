@@ -1,4 +1,4 @@
-# Fresh Dark net links 2023, Do your Tor browsing
+# Fresh Dark net links 2024, Do your Tor browsing
 Your source of TOR knownledge (Guides, tor links, tor directory, TOR onion links, deep web links)
 
 ⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
@@ -24,13 +24,13 @@ Your source of TOR knownledge (Guides, tor links, tor directory, TOR onion links
 | GiftTo(r) | [giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion](http://giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion) |
 | Paypal World | [payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion](http://payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion) |
 | Chemi5 | [chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion](http://chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion) |
-| Horizon CARDS | [cards7ndxk4fuctkgwmeq46gx6bhzt57sg4l2nbwa2p3vjnvq4trhkad.onion](http://cards7ndxk4fuctkgwmeq46gx6bhzt57sg4l2nbwa2p3vjnvq4trhkad.onion) |
-| E M P I R E | [empirebhczt2s4yprurhtqvkvnt6rvxqlaxfyniqec643vird7gi7cid.onion](http://empirebhczt2s4yprurhtqvkvnt6rvxqlaxfyniqec643vird7gi7cid.onion) |
-| MoneYUU | [moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion](http://moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion) |
 | Kingz Service | [kingz3mfshjqfij3pkjq2fkknjqb6dhdvctmfc6bnstla7ms6vjyjgid.onion](http://kingz3mfshjqfij3pkjq2fkknjqb6dhdvctmfc6bnstla7ms6vjyjgid.onion) |
 | Account Store | [accountmwyiilytqztx6s45k5a6ud57x3gzmtumljheym5lqwelapaid.onion](http://accountmwyiilytqztx6s45k5a6ud57x3gzmtumljheym5lqwelapaid.onion) |
 | Apple World | [applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion](http://applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion) |
 | Hackerpass | [hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion](http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion) |
+| Horizon CARDS | [cards7ndxk4fuctkgwmeq46gx6bhzt57sg4l2nbwa2p3vjnvq4trhkad.onion](http://cards7ndxk4fuctkgwmeq46gx6bhzt57sg4l2nbwa2p3vjnvq4trhkad.onion) |
+| E M P I R E | [empirebhczt2s4yprurhtqvkvnt6rvxqlaxfyniqec643vird7gi7cid.onion](http://empirebhczt2s4yprurhtqvkvnt6rvxqlaxfyniqec643vird7gi7cid.onion) |
+| MoneYUU | [moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion](http://moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion) |
 | Breaking Bad Forum | [bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion](http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion) |
 
 
